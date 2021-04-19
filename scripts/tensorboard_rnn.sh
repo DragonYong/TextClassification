@@ -1,0 +1,1 @@
+tensorboard --logdir="/media/turing/D741ADF8271B9526/OUTPUT/cnews/tensorboard/textrnn"
